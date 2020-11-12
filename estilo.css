@@ -1,0 +1,45 @@
+
+body{
+	margin:0;
+	padding: 0;
+
+}
+
+
+img{
+
+	width: 1000px;
+	height: 200; 
+	
+
+		
+
+}
+
+.sessao1 h1{
+			
+
+			text-align: center;
+}
+
+.sessao1 ol li{
+				text-align: center;
+
+				list-style: none;
+
+
+}
+
+.sessao2 ul li{
+				text-align: center;
+				list-style: none;
+
+
+}
+
+.sessao2 h4{
+				text-align: center;
+				list-style: none;
+
+
+}
